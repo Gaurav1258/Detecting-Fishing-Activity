@@ -1,1 +1,0 @@
-print(f_index[0])
