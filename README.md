@@ -58,11 +58,14 @@ The following parameters were found to be most effective for different vessel ty
 ## Results
 
 Our model successfully identified fishing vessels and predicted potential fishing sites in various regions, such as Micronesia, Eastern Asia, South of Africa, and Madagascar. The results are communicated to relevant authorities using a simple mail transfer protocol.
-
-![Purse Seines](src/results/best_reconstructions/10880510825243_transparency_model_3_GBC_purse_seines.png)
-![Purse Seines](src/results/best_reconstructions/10880510825243model_3_GBC_purse_seines_LatLon.png)
-![Longliners](src/results/best_reconstructions/36427802545466_transparency_model_6_RF_longliners.png)
-![Longliners](src/results/best_reconstructions/36427802545466_zoom_model_6_RF_longliners.png)
+<img src="src/results/best_reconstructions/10880510825243_transparency_model_3_GBC_purse_seines.png" alt="Purse Seines Model 3 GBC" width="600"/>
+*Figure 1: Purse Seines Model 3 GBC*
+<img src="src/results/best_reconstructions/10880510825243model_3_GBC_purse_seines_LatLon.png" alt="Purse Seines LAT-LON" width="600"/>
+*Figure 2: Purse Seines LAT-LON*
+<img src="src/results/best_reconstructions/36427802545466_zoom_model_6_RF_longliners.png" alt="Longliners Model 6 RF" width="600"/>
+*Figure 3: Longliners Model 6 RF*
+<img src="src/results/best_reconstructions/36427802545466model_6_RF_longliners_LatLon.png" alt="Longliners LAT-LAN" width="600"/>
+*Figure 4: Longliners LAT-LAN*
 
 ## Conclusion
 
